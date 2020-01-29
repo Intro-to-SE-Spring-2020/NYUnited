@@ -1,4 +1,5 @@
 # NYUnited
-First day project.
 
-Jai - test pull- 01/21/2020
+[Objective](https://github.com/Intro-to-SE-Spring-2020/NYUnited/wiki)
+
+[Meeting Information](https://github.com/Intro-to-SE-Spring-2020/NYUnited/wiki/Meeting-Information)
