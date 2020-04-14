@@ -1,7 +1,5 @@
 <?php 
 include("includes/header.php");
-include("includes/classes/User.php");
-include("includes/classes/Post.php");
 
 
 if(isset($_POST['post'])){
@@ -40,7 +38,6 @@ if(isset($_POST['post'])){
  	
 
  	 <div class="posts_area"></div>
-
  	 <img id="loading" src="assets/images/icons/91.gif">
 
 
